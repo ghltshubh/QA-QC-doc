@@ -22,9 +22,15 @@ Outcomes Achieved:
 
 1. **High-Quality Dataset:** The QA/QC process, combining Python scripts and expert reviews, led to the creation of a high-quality flood extent dataset. The dataset became a valuable resource for machine learning applications, contributing to the development of accurate flood detection models.
 
-2. **Publication and Documentation:** The project outcomes, including the dataset and the QA/QC methodology, were documented in the publication titled [Flood Extent Data for Machine Learning](https://d197for5662m48.cloudfront.net/documents/publicationstatus/107994/preprint_pdf/478225051219b1604a524ebca6a7533e.pdf). This documentation provided transparency and insights into the dataset's creation and validation process.
+2. **Publication and Documentation:** The project outcomes, including the dataset and the QA/QC methodology, were documented in the publication titled [Curating flood extent data and leveraging citizen science for benchmarking machine learning solutions](https://d197for5662m48.cloudfront.net/documents/publicationstatus/107994/preprint_pdf/478225051219b1604a524ebca6a7533e.pdf). This documentation provided transparency and insights into the dataset's creation and validation process.
 
 3. **Community Contribution:** By leveraging citizen science and artificial intelligence, the project contributed to the broader scientific community's understanding of flood extent data. The dataset was made publicly available through [Radiant MLHub](https://beta.source.coop/nasa/floods/) [DOI](https://doi.org/10.24432/C50P62), fostering collaboration and further research in the field.
 
 In conclusion, this project showcased the effective use of Python and databases such as S3 bucket, in ensuring the quality of flood extent data. The collaborative approach, combining domain expertise with automated QA/QC processes, resulted in a reliable dataset with implications for advancing machine learning applications in flood detection and monitoring.
 
+
+** References: **
+
+1. [Curating flood extent data and leveraging citizen science for benchmarking machine learning solutions](https://doi.org/10.1002/essoar.10511103.1)
+2. [Flood Extent Data for Machine Learning](https://d197for5662m48.cloudfront.net/documents/publicationstatus/107994/preprint_pdf/478225051219b1604a524ebca6a7533e.pdf)
+3. [Radiant MLHub](https://beta.source.coop/nasa/floods/)
