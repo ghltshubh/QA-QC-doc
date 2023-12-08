@@ -28,7 +28,6 @@ Outcomes Achieved:
 
 In conclusion, this project showcased the effective use of Python and databases such as S3 bucket, in ensuring the quality of flood extent data. The collaborative approach, combining domain expertise with automated QA/QC processes, resulted in a reliable dataset with implications for advancing machine learning applications in flood detection and monitoring.
 
-
 **References:**
 
 1. [Curating flood extent data and leveraging citizen science for benchmarking machine learning solutions](https://doi.org/10.1002/essoar.10511103.1)
