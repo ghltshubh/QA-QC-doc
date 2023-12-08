@@ -5,7 +5,7 @@ As a Research Scientist at NASA IMPACT, I spearheaded a project involving the QA
 Challenges Faced:
 The primary challenges in this project revolved around ensuring the precision of flood extent labels in the dataset. SAR imagery interpretation presented complexities, as distinguishing between open water and other dark features was intricate. Additionally, the project required collaboration with flood domain experts to validate and refine the labels, adding another layer of complexity to the QA/QC process.
 
-## Data pre-processing & generation workflow
+### Data pre-processing & generation workflow
 ![Data pre-processing & generation workflow](data-preprocessing.png)
 
 Approach to Problem-Solving:
