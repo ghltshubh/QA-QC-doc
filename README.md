@@ -22,4 +22,4 @@ Outcomes Achieved:
 3. **Community Contribution:** By leveraging citizen science and artificial intelligence, the project contributed to the broader scientific community's understanding of flood extent data. The dataset was made publicly available through Radiant MLHub, fostering collaboration and further research in the field.
 
 In conclusion, this project showcased the effective use of Python and databases in ensuring the quality of flood extent data. The collaborative approach, combining domain expertise with automated QA/QC processes, resulted in a reliable dataset with implications for advancing machine learning applications in flood detection and monitoring.
-![image](https://github.com/ghltshubh/QA-QC-doc/assets/16928813/df3d26ae-dec1-4a95-929d-c1e853e61663)
+
