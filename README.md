@@ -32,5 +32,5 @@ In conclusion, this project showcased the effective use of Python and databases 
 **References:**
 
 1. [Curating flood extent data and leveraging citizen science for benchmarking machine learning solutions](https://doi.org/10.1002/essoar.10511103.1)
-2. [Flood Extent Data for Machine Learning](https://d197for5662m48.cloudfront.net/documents/publicationstatus/107994/preprint_pdf/478225051219b1604a524ebca6a7533e.pdf)
-3. [Radiant MLHub](https://beta.source.coop/nasa/floods/)
+2. [Dataset Documentation](https://data.source.coop/nasa/floods/documentation.pdf)
+3. [Flood Extent Data for Machine Learning](https://data.source.coop/nasa/floods/)
